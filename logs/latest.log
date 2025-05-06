@@ -1,0 +1,223 @@
+[18:54:42] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
+[18:54:42] [main/WARN]: Warnings were found!
+ - Mod 'CoordinatesDisplay' (coordinatesdisplay) 16.0.0 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+ - Mod 'Forge Config API Port' (forgeconfigapiport) 21.5.1 recommends any version of modmenu, which is missing!
+	 - You should install any version of modmenu for the optimal experience.
+[18:54:42] [main/INFO]: Loading 85 mods:
+	- additionalstructures 5.1.0-fabric
+	- architectury 16.1.4
+	- boxlib 17.0.2
+	- cloth-config 18.0.145
+	   \-- cloth-basic-math 0.6.1
+	- collective 8.3
+	- coordinatesdisplay 16.0.0
+	- fabric-api 0.121.0+1.21.5
+	   |-- fabric-api-base 0.4.62+73a52b4b49
+	   |-- fabric-api-lookup-api-v1 1.6.95+86c3a9f149
+	   |-- fabric-biome-api-v1 16.0.7+2dd063df49
+	   |-- fabric-block-api-v1 1.0.37+86c3a9f149
+	   |-- fabric-block-view-api-v2 1.0.26+aa6d566c49
+	   |-- fabric-blockrenderlayer-v1 2.0.16+86c3a9f149
+	   |-- fabric-client-tags-api-v1 1.1.37+86c3a9f149
+	   |-- fabric-command-api-v1 1.2.70+f71b366f49
+	   |-- fabric-command-api-v2 2.2.49+73a52b4b49
+	   |-- fabric-commands-v0 0.2.87+df3654b349
+	   |-- fabric-content-registries-v0 10.0.12+3e6c1f7d49
+	   |-- fabric-convention-tags-v1 2.1.29+7f945d5b49
+	   |-- fabric-convention-tags-v2 2.14.3+fca633a049
+	   |-- fabric-crash-report-info-v1 0.3.12+86c3a9f149
+	   |-- fabric-data-attachment-api-v1 1.7.0+9c0dd47249
+	   |-- fabric-data-generation-api-v1 22.3.4+fd2b524049
+	   |-- fabric-dimensions-v1 4.0.17+3e6c1f7d49
+	   |-- fabric-entity-events-v1 2.0.25+27c1078f49
+	   |-- fabric-events-interaction-v0 4.0.13+73a52b4b49
+	   |-- fabric-game-rule-api-v1 1.0.70+c327076a49
+	   |-- fabric-item-api-v1 11.3.2+2ccdb6ef49
+	   |-- fabric-item-group-api-v1 4.2.8+3459fc6149
+	   |-- fabric-key-binding-api-v1 1.0.63+ecf51cdc49
+	   |-- fabric-keybindings-v0 0.2.61+df3654b349
+	   |-- fabric-lifecycle-events-v1 2.5.13+5cbce67349
+	   |-- fabric-loot-api-v2 3.0.47+3f89f5a549
+	   |-- fabric-loot-api-v3 1.0.35+86c3a9f149
+	   |-- fabric-message-api-v1 6.0.33+86c3a9f149
+	   |-- fabric-model-loading-api-v1 5.2.0+c982b95149
+	   |-- fabric-networking-api-v1 4.4.0+f3ffa98949
+	   |-- fabric-object-builder-api-v1 21.0.0+7b20cbb049
+	   |-- fabric-particles-v1 4.1.1+112e550e49
+	   |-- fabric-recipe-api-v1 8.1.6+052a85d049
+	   |-- fabric-registry-sync-v0 6.1.20+b556383249
+	   |-- fabric-renderer-api-v1 6.0.2+c982b95149
+	   |-- fabric-renderer-indigo 3.0.3+3e6c1f7d49
+	   |-- fabric-rendering-data-attachment-v1 0.3.64+73761d2e49
+	   |-- fabric-rendering-fluids-v1 3.1.27+86c3a9f149
+	   |-- fabric-rendering-v1 11.1.11+081cc04349
+	   |-- fabric-resource-conditions-api-v1 5.0.21+73a52b4b49
+	   |-- fabric-resource-loader-v0 3.1.6+02ca679649
+	   |-- fabric-screen-api-v1 2.0.46+86c3a9f149
+	   |-- fabric-screen-handler-api-v1 1.3.127+c327076a49
+	   |-- fabric-sound-api-v1 1.0.38+86c3a9f149
+	   |-- fabric-tag-api-v1 1.0.16+ecf51cdc49
+	   |-- fabric-transfer-api-v1 5.4.23+7b20cbb049
+	   \-- fabric-transitive-access-wideners-v1 6.3.17+f17a180c49
+	- fabric-language-kotlin 1.13.2+kotlin.2.1.20
+	   |-- org_jetbrains_kotlin_kotlin-reflect 2.1.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib 2.1.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk7 2.1.20
+	   |-- org_jetbrains_kotlin_kotlin-stdlib-jdk8 2.1.20
+	   |-- org_jetbrains_kotlinx_atomicfu-jvm 0.27.0
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm 1.10.1
+	   |-- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8 1.10.1
+	   |-- org_jetbrains_kotlinx_kotlinx-datetime-jvm 0.6.2
+	   |-- org_jetbrains_kotlinx_kotlinx-io-bytestring-jvm 0.7.0
+	   |-- org_jetbrains_kotlinx_kotlinx-io-core-jvm 0.7.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-cbor-jvm 1.8.0
+	   |-- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm 1.8.0
+	   \-- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm 1.8.0
+	- fabricloader 0.16.14
+	   \-- mixinextras 0.4.1
+	- forgeconfigapiport 21.5.1
+	   |-- com_electronwill_night-config_core 3.8.1
+	   \-- com_electronwill_night-config_toml 3.8.1
+	- java 22
+	- milkman 2.4
+	- minecraft 1.21.5
+	- mr_guns 5.8.1
+	- noenchantmentcaplevel 1.1
+	- nohostilesaroundcampfire 7.2
+	- puzzleslib 21.5.9
+	- roughlyenoughitems 19.0.806
+	   \-- error_notifier 1.0.11
+	- silk-all 1.11.1
+	   |-- silk-commands 1.11.1
+	   |-- silk-core 1.11.1
+	   |-- silk-game 1.11.1
+	   |-- silk-igui 1.11.1
+	   |-- silk-nbt 1.11.1
+	   |-- silk-network 1.11.1
+	   \-- silk-persistence 1.11.1
+	- veinminer 2.4.2
+	   |-- de_miraculixx_core_dev 2.4.2
+	   \-- fabric-permissions-api-v0 0.3.3
+	- voicechat 1.21.5-2.5.30
+	   \-- fabric-key-binding-api-v1 1.0.63+ecf51cdc07
+[18:54:42] [main/WARN]: Found 1 non-fabric mod:
+	- cloth-config-18.0.145-neoforge.jar
+[18:54:43] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/RITCHIE_PC/OneDrive/ドキュメント/FabricServer/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[18:54:43] [main/INFO]: Compatibility level set to JAVA_16
+[18:54:43] [main/INFO]: Compatibility level set to JAVA_21
+[18:54:43] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:54:44] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[18:55:02] [main/INFO]: Loading Collective version 8.3.
+[18:55:03] [main/INFO]: Constructing common components for puzzleslib:main
+[18:55:03] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[18:55:03] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
+[18:55:03] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
+[18:55:03] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
+[18:55:03] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[18:55:03] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[18:55:03] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[18:55:03] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[18:55:03] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[18:55:04] [main/INFO]: Initializing Silk
+[18:55:04] [main/INFO]: Veinminer Version: 2.4.2 (fabric)
+[18:55:05] [main/INFO]: [voicechat] Compatibility version 18
+[18:55:05] [main/INFO]: [voicechat] Loading plugins
+[18:55:05] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[18:55:05] [main/INFO]: [voicechat] Initializing plugins
+[18:55:05] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[18:55:06] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:55:06] [main/INFO]: Found new data pack file/Milkman.Datapack.V2.4.1.21.5.zip, loading it automatically
+[18:55:06] [DefaultDispatcher-worker-2/INFO]: [STDOUT]: [VeinminerUpdater] veinminer is up to date
+[18:55:11] [Worker-Main-1/ERROR]: Invalid path in mod resource-pack milkman: milk:predicate/offhand_crate copy.json, ignoring
+[18:55:11] [Worker-Main-1/WARN]: Invalid path in datapack: milk:predicate/offhand_crate copy.json, ignoring
+[18:55:13] [Worker-Main-4/ERROR]: Invalid path in mod resource-pack milkman: milk:function/settings/.DS_Store, ignoring
+[18:55:13] [Worker-Main-4/WARN]: Invalid path in datapack: milk:function/settings/.DS_Store, ignoring
+[18:55:13] [Worker-Main-5/ERROR]: Invalid path in mod resource-pack milkman: milk:advancement/throw_milk copy.json, ignoring
+[18:55:13] [Worker-Main-5/WARN]: Invalid path in datapack: milk:advancement/throw_milk copy.json, ignoring
+[18:55:15] [main/INFO]: Loaded 1431 recipes
+[18:55:15] [main/INFO]: Loaded 1522 advancements
+[18:55:16] [main/INFO]: Applied 0 biome modifications to 0 of 66 new biomes in 6.133 ms
+[18:55:16] [Server thread/INFO]: Initialized mcCoroutineScope (MinecraftServer as executor)
+[18:55:16] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[18:55:16] [Server thread/INFO]: Loading properties
+[18:55:16] [Server thread/INFO]: Default game type: SURVIVAL
+[18:55:16] [Server thread/INFO]: Generating keypair
+[18:55:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:55:16] [Server thread/INFO]: Using default channel type
+[18:55:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:55:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:55:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:55:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:55:16] [Server thread/INFO]: Preparing level "world"
+[18:55:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:55:19] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:55:19] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:55:19] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:55:19] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:55:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:55:20] [Server thread/INFO]: Time elapsed: 2149 ms
+[18:55:20] [Server thread/INFO]: Done (3.048s)! For help, type "help"
+[18:55:20] [Server thread/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[18:55:20] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
+[18:55:20] [Server thread/INFO]: [REI] Plugins (3):
+[18:55:20] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[18:55:20] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[18:55:20] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[18:55:20] [Server thread/INFO]: [REI] %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+[18:55:20] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 2.490 ms, totaling 180.9 ms.
+[18:55:20] [Server thread/INFO]: [REI] ****************************************
+[18:55:20] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
+[18:55:20] [Server thread/INFO]: [REI] Plugins (3):
+[18:55:20] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[18:55:20] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[18:55:20] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[18:55:20] [Server thread/INFO]: [REI] ****************************************
+[18:55:20] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 2.361 ms, totaling 165.9 ms.
+[18:55:20] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[18:55:20] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[18:55:20] [Server thread/WARN]: UUID of added entity already exists: class_6335['Marker'/1, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00]
+[18:55:41] [Server thread/INFO]: ChaliceOfChrist[/127.0.0.1:65528] logged in with entity id 379 at (-3721.376097990749, 87.9931355636394, -4044.2081529425923)
+[18:55:41] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[18:55:41] [Server thread/INFO]: ChaliceOfChrist joined the game
+[18:55:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3798ms or 75 ticks behind
+[18:55:55] [Server thread/INFO]: [ChaliceOfChrist: Unlocked 1431 recipe(s) for ChaliceOfChrist]
+[18:56:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9406ms or 188 ticks behind
+[18:56:26] [Server thread/INFO]: [ChaliceOfChrist: Running function milk:settings]
+[18:56:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12804ms or 256 ticks behind
+[18:56:38] [Server thread/INFO]: [ChaliceOfChrist: Running function milk:settings/toggle/do_digging]
+[18:56:38] [Server thread/INFO]: [ChaliceOfChrist: Function milk:settings/toggle/do_digging returned 1]
+[18:57:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14418ms or 288 ticks behind
+[18:57:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18662ms or 373 ticks behind
+[18:57:59] [Server thread/INFO]: [ChaliceOfChrist: Applied enchantment Sharpness 20 to ChaliceOfChrist's item]
+[18:58:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16944ms or 338 ticks behind
+[18:58:32] [Server thread/INFO]: [ChaliceOfChrist: Applied enchantment Fire Aspect 30 to ChaliceOfChrist's item]
+[18:58:40] [Server thread/INFO]: [ChaliceOfChrist: Set own game mode to Survival Mode]
+[18:58:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14511ms or 290 ticks behind
+[18:59:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18401ms or 368 ticks behind
+[18:59:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17987ms or 359 ticks behind
+[18:59:54] [Worker-Main-7/ERROR]: Failed to read field (id="forge:entity_gravity"): Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
+[18:59:54] [Worker-Main-7/ERROR]: Failed to read field (id="forge:entity_gravity"): Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
+[18:59:54] [Worker-Main-7/ERROR]: Failed to read field (id="forge:entity_gravity"): Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
+[18:59:54] [Worker-Main-7/ERROR]: Failed to read field (id="forge:entity_gravity"): Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
+[18:59:54] [Worker-Main-7/ERROR]: Failed to read field (id="forge:entity_gravity"): Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
+[18:59:54] [Worker-Main-7/ERROR]: Failed to read field (id="forge:entity_gravity"): Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
+[18:59:54] [Worker-Main-7/ERROR]: Failed to read field (id="forge:entity_gravity"): Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
+[18:59:54] [Worker-Main-7/ERROR]: Failed to read field (id="forge:entity_gravity"): Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: forge:entity_gravity
+[19:00:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3663ms or 73 ticks behind
+[19:00:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2568ms or 51 ticks behind
+[19:01:16] [Server thread/INFO]: [ChaliceOfChrist: Applied enchantment Breach 500 to ChaliceOfChrist's item]
+[19:01:16] [Server thread/INFO]: ChaliceOfChrist lost connection: Disconnected
+[19:01:16] [Server thread/INFO]: ChaliceOfChrist left the game
+[19:01:16] [Server thread/INFO]: [voicechat] Disconnecting client ChaliceOfChrist
+[19:01:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 38467ms or 769 ticks behind
+[19:01:21] [Server thread/INFO]: ChaliceOfChrist[/127.0.0.1:49189] logged in with entity id 16106 at (-3753.576100397436, 71.0, -4106.950213109291)
+[19:01:21] [Server thread/INFO]: ChaliceOfChrist joined the game
+[19:01:22] [Server thread/INFO]: ChaliceOfChrist lost connection: Disconnected
+[19:01:22] [Server thread/INFO]: ChaliceOfChrist left the game
+[19:01:22] [Server thread/INFO]: [voicechat] Disconnecting client ChaliceOfChrist
+[19:02:21] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:02:48] [Server thread/INFO]: ChaliceOfChrist[/127.0.0.1:49240] logged in with entity id 17671 at (-2.5, 104.0, -1.5)
+[19:02:48] [Server thread/INFO]: ChaliceOfChrist joined the game
+[19:02:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[19:02:54] [Server thread/INFO]: [ChaliceOfChrist: Set own game mode to Creative Mode]
